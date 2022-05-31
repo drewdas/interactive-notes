@@ -2,7 +2,7 @@
   "name": "Interactive Notes",
   "sidebar": [
     ["Overview", "/"],
-    ["React", ["State Management Patterns", "/react/state-management-patterns.mdx"]]
+    ["React", [["State Management Patterns", "/react/state-management-patterns"]]]
   ],
   "experimentalCodehike": true
 }
