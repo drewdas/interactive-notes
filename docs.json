@@ -1,0 +1,8 @@
+{
+  "name": "Interactive Notes",
+  "sidebar": [
+    ["Overview", "/"],
+    ["React", "/react"]
+  ],
+  "experimentalCodehike": true
+}
